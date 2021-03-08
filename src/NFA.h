@@ -7,7 +7,7 @@
 #include<map>
 #include<stack>
 #include "Graph.h"
-#include "util.h"
+
 
 class Nfa{
 public:
